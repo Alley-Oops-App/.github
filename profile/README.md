@@ -5,7 +5,7 @@
 | 1 | [팀원 소개](#팀원-소개) |
 | 2 | [프로젝트 일정](#프로젝트-일정) |
 | 3 | [추진 배경](#추진-배경) |
-| 4 | [프로젝트 목표](#프로젝트-목표) |
+| 4 | [프로젝트 기간](#프로젝트-기간) |
 | 5 | [시스템 설계도](#시스템-설계도) |
 | 6 | [기능 정리](#기능-정리) |
 | 7 | [기능 평가](#기능-평가) |
@@ -16,7 +16,7 @@
 | ___역할___ | Android | BE, AI | BE | iOS | BE |
 | ___Github___ | <a href="https://github.com/HaeBun"><img src="https://avatars.githubusercontent.com/u/62525605?v=4" width="64" height="64"></a> | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href=""><img src="" width="64" height="64"></a> | <a href="https://github.com/vincent8-8"><img src="https://avatars.githubusercontent.com/u/156335932?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> |
 
-## 프로젝트 일정
+## 프로젝트 기간
 - 24.06 ~ 현재
 
 ## 추진 배경
