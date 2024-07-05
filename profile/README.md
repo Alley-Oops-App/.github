@@ -3,35 +3,46 @@
 | 순번 | 목차 항목 |
 | :-: | :-: |
 | 1 | [팀원 소개](#팀원-소개) |
-| 2 | [프로젝트 일정](#프로젝트-일정) |
+| 2 | [프로젝트 기간](#프로젝트-기간) |
 | 3 | [추진 배경](#추진-배경) |
-| 4 | [프로젝트 기간](#프로젝트-기간) |
+| 4 | [프로젝트 목표](#프로젝트-목표) |
 | 5 | [시스템 설계도](#시스템-설계도) |
 | 6 | [기능 정리](#기능-정리) |
 | 7 | [기능 평가](#기능-평가) |
 
 ## 팀원 소개
-| _이름_ | 김인태 | 김준형 | 윤현도 | 이선빈 | 정규원 |
-|:-----:|:----:|:-----:|:----:|:----:|:-----:|
-| ___역할___ | Android | BE, AI | BE | iOS | BE |
-| ___Github___ | <a href="https://github.com/HaeBun"><img src="https://avatars.githubusercontent.com/u/62525605?v=4" width="64" height="64"></a> | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href=""><img src="" width="64" height="64"></a> | <a href="https://github.com/vincent8-8"><img src="https://avatars.githubusercontent.com/u/156335932?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> |
+| _이름_ | 김인태 | 김준형 | 이선빈 | 정규원 |
+|:-----:|:----:|:-----:|:----:|:----:|
+| ___역할___ | Android | BE, AI | iOS | BE, DevOps |
+| ___Github___ | <a href="https://github.com/HaeBun"><img src="https://avatars.githubusercontent.com/u/62525605?v=4" width="64" height="64"></a> | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/vincent8-8"><img src="https://avatars.githubusercontent.com/u/156335932?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> |
 
 ## 프로젝트 기간
 - 24.06 ~ 현재
 
 ## 추진 배경
-- 내용
-- 내용
+- 농구에 관심이 많은 사람들이 현재 농구 인프라에 대한 불편함을 느껴 그동안의 경험을 바탕으로 불편사항을 해소하고자 앱 개발 기획
   
 ## 프로젝트 목표
-- 내용
-- 내용
+- 농구 애호가들이 모든 농구 활동(픽업 게임, 동호회, 리그 & 토너먼트)을 간편하고 편리하게 즐길 수 있도록 지원하는 커뮤니티 플랫폼 개발
 
 ## 시스템 설계도
 
 ## 기능 정리
 | 순번 | 기능 목록 | 이미지 |
 | :-: | :-: | :-: |
+| 1 | 회원가입 | |
+| 2 | 회원 정보수정 | |
+| 3 | 로그인 | |
+| 4 | 로그아웃 | |
+| 5 | 지도 기반 탐색 | |
+| 6 | 참여 신청 | |
+| 9 | 결제 | |
+| 10 | 결제 내역 확인 | |
+| 11 | 1:1 채팅 | |
+| 12 | 1:N 채팅 | |
+| 13 | 주변 관심 경기 알림 | |
+| 14 | 게시판 | |
+
 
 ## 기능 평가
 
